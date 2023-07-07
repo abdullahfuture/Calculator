@@ -1,6 +1,8 @@
 # Calculator
 [Live Site](https://calculatorer.netlify.app/)
-[](./public/logo.PNG)
+````
+![](./public/logo.PNG)
+````
 
 
 ## Cloning and Running the Application Locally
